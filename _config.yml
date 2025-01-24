@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Kfansup个人博客
+title: LxEaog个人博客
 subtitle: ''
 description: ''
 keywords:
-author: Kfansup
+author: LxEaog
 language: zh
 timezone: 'Asia/Shanghai'
 
@@ -102,5 +102,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo: "https://github.com/Kfanup/Kfanup.github.io.git"
+  repo: "https://github.com/lxeaog/lxeaog.github.io.git"
   branch: "master"
